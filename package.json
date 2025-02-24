@@ -67,7 +67,7 @@
     "winston-daily-rotate-file": "4.7.1"
   },
   "devDependencies": {
-    "eslint": "8.53.0",
+    "eslint": "9.21.0",
     "eslint-config-prettier": "8.8.0",
     "husky": "8.0.3",
     "lint-staged": "15.1.0",
